@@ -18,3 +18,5 @@ When validated against the classic **Fisher's Iris Dataset** using a 70/30 train
 ## File Structure
 - `Decision_Tree_Classifier_from_Scratch.ipynb` - Core Google Colab notebook containing code blocks, test scripts, and matrix plots.
 - `README.md` - Documentation.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a5u-j8Pp5PMCwhU_o78aZ2tB_NZPNRqv?usp=sharing)
